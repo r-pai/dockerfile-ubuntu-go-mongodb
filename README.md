@@ -1,9 +1,8 @@
 # dockerfile-ubuntu-go-mongodb
 Repository has Dockerfile which creats the ubuntu image with golang , mongodb.
 
-# Purpose 
-The purpose of creating this is, in my mac which has OS X Yosemite, I was not able to install the latest mongodb 4.4 not golang 1.4 and above.
-Wanted to connect mongodb atlas using golang.
+## Purpose 
+To run golang programs which connects to mongodb atlas.
 
 ### Creating docker image
 ```shell
